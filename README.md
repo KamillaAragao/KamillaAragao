@@ -15,7 +15,7 @@ object **Kamilla** {
 ```
 ##
 
- <div style = "display: inline>
+ <div  align="center" style = "display: inline_block>
   <a href="https://github.com/KamillaAragao">
   <img  height = "180em" src = "https://github-readme-stats.vercel.app/api?username=KamillaAragao&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img  height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KamillaAragao&layout=compact&langs_count=4&theme=gotham"/>
