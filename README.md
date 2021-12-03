@@ -20,6 +20,6 @@
 #### 📫 Contato
   <div align="center">
     <a href="https://www.linkedin.com/in/kamilla-aragao/" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target =" _ blank "></a>
-    <a href="mailto:gmail/KamillaAragao" target="_blank"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"></a>
+    <a href="https://mail.google.com/mail/" target="_blank"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"></a>
     
     
